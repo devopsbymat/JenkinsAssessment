@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JenkinsAssignmentApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(JenkinsAssignmentApplication.class, args);
+
 	}
 
 }
